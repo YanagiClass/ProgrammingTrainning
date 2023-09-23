@@ -8,20 +8,23 @@
 import Foundation
 
 class Solution {
-  
-    
     func integerReplacement(_ n: Int) -> Int {
-           if n == 1 { return 0 }
-           if n % 2 == 0 {
-               return 1 + integerReplacement(n/2)
-           } else {
-               return 1 + min(integerReplacement(n-1),
-                              integerReplacement(n+1))
-           }
-       }
-
-    
-    
+        var n = n
+        var count = 0
+        
+        while n != 1 {
+            if n & 1 == 0 {
+                n >>= 1
+            } else if n == 3 || ((n >> 1) & 1) == 0 {
+                n -= 1
+            } else {
+                n += 1
+            }
+            count += 1
+        }
+        
+        return count
+    }
 }
 
 print(Solution().integerReplacement(7))
