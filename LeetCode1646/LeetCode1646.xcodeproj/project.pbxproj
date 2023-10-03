@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		680394132ACC630F0096285B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680394122ACC630F0096285B /* main.swift */; };
+		680394262ACC65470096285B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680394252ACC65470096285B /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		6803940D2ACC630F0096285B /* CopyFiles */ = {
+		680394202ACC65470096285B /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		6803940F2ACC630F0096285B /* LeetCode894 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode894; sourceTree = BUILT_PRODUCTS_DIR; };
-		680394122ACC630F0096285B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		680394222ACC65470096285B /* LeetCode1646 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode1646; sourceTree = BUILT_PRODUCTS_DIR; };
+		680394252ACC65470096285B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6803940C2ACC630F0096285B /* Frameworks */ = {
+		6803941F2ACC65470096285B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,66 +38,66 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		680394062ACC630F0096285B = {
+		680394192ACC65470096285B = {
 			isa = PBXGroup;
 			children = (
-				680394112ACC630F0096285B /* LeetCode894 */,
-				680394102ACC630F0096285B /* Products */,
+				680394242ACC65470096285B /* LeetCode1646 */,
+				680394232ACC65470096285B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		680394102ACC630F0096285B /* Products */ = {
+		680394232ACC65470096285B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6803940F2ACC630F0096285B /* LeetCode894 */,
+				680394222ACC65470096285B /* LeetCode1646 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		680394112ACC630F0096285B /* LeetCode894 */ = {
+		680394242ACC65470096285B /* LeetCode1646 */ = {
 			isa = PBXGroup;
 			children = (
-				680394122ACC630F0096285B /* main.swift */,
+				680394252ACC65470096285B /* main.swift */,
 			);
-			path = LeetCode894;
+			path = LeetCode1646;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6803940E2ACC630F0096285B /* LeetCode894 */ = {
+		680394212ACC65470096285B /* LeetCode1646 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 680394162ACC630F0096285B /* Build configuration list for PBXNativeTarget "LeetCode894" */;
+			buildConfigurationList = 680394292ACC65470096285B /* Build configuration list for PBXNativeTarget "LeetCode1646" */;
 			buildPhases = (
-				6803940B2ACC630F0096285B /* Sources */,
-				6803940C2ACC630F0096285B /* Frameworks */,
-				6803940D2ACC630F0096285B /* CopyFiles */,
+				6803941E2ACC65470096285B /* Sources */,
+				6803941F2ACC65470096285B /* Frameworks */,
+				680394202ACC65470096285B /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = LeetCode894;
-			productName = LeetCode894;
-			productReference = 6803940F2ACC630F0096285B /* LeetCode894 */;
+			name = LeetCode1646;
+			productName = LeetCode1646;
+			productReference = 680394222ACC65470096285B /* LeetCode1646 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		680394072ACC630F0096285B /* Project object */ = {
+		6803941A2ACC65470096285B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1430;
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
-					6803940E2ACC630F0096285B = {
+					680394212ACC65470096285B = {
 						CreatedOnToolsVersion = 14.3;
 					};
 				};
 			};
-			buildConfigurationList = 6803940A2ACC630F0096285B /* Build configuration list for PBXProject "LeetCode894" */;
+			buildConfigurationList = 6803941D2ACC65470096285B /* Build configuration list for PBXProject "LeetCode1646" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -105,29 +105,29 @@
 				en,
 				Base,
 			);
-			mainGroup = 680394062ACC630F0096285B;
-			productRefGroup = 680394102ACC630F0096285B /* Products */;
+			mainGroup = 680394192ACC65470096285B;
+			productRefGroup = 680394232ACC65470096285B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6803940E2ACC630F0096285B /* LeetCode894 */,
+				680394212ACC65470096285B /* LeetCode1646 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6803940B2ACC630F0096285B /* Sources */ = {
+		6803941E2ACC65470096285B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				680394132ACC630F0096285B /* main.swift in Sources */,
+				680394262ACC65470096285B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		680394142ACC630F0096285B /* Debug */ = {
+		680394272ACC65470096285B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -187,7 +187,7 @@
 			};
 			name = Debug;
 		};
-		680394152ACC630F0096285B /* Release */ = {
+		680394282ACC65470096285B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -240,7 +240,7 @@
 			};
 			name = Release;
 		};
-		680394172ACC630F0096285B /* Debug */ = {
+		6803942A2ACC65470096285B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -251,7 +251,7 @@
 			};
 			name = Debug;
 		};
-		680394182ACC630F0096285B /* Release */ = {
+		6803942B2ACC65470096285B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -265,25 +265,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6803940A2ACC630F0096285B /* Build configuration list for PBXProject "LeetCode894" */ = {
+		6803941D2ACC65470096285B /* Build configuration list for PBXProject "LeetCode1646" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				680394142ACC630F0096285B /* Debug */,
-				680394152ACC630F0096285B /* Release */,
+				680394272ACC65470096285B /* Debug */,
+				680394282ACC65470096285B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		680394162ACC630F0096285B /* Build configuration list for PBXNativeTarget "LeetCode894" */ = {
+		680394292ACC65470096285B /* Build configuration list for PBXNativeTarget "LeetCode1646" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				680394172ACC630F0096285B /* Debug */,
-				680394182ACC630F0096285B /* Release */,
+				6803942A2ACC65470096285B /* Debug */,
+				6803942B2ACC65470096285B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 680394072ACC630F0096285B /* Project object */;
+	rootObject = 6803941A2ACC65470096285B /* Project object */;
 }
