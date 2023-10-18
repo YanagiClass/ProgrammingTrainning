@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0D5F9C8A-E0E8-4388-BEE4-7A15B1AE19D5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B650C281-BD28-4C75-AAF3-0B8FF636E7CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgrammingTrainning_FirstExam_q2/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "q2(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B650C281-BD28-4C75-AAF3-0B8FF636E7CD - 316b5823b64886e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammingTrainning_FirstExam_q2.dfs(n: inout Swift.Int, result: inout Swift.String) -&gt; ()"
+                  moduleName = "ProgrammingTrainning_FirstExam_q2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/ProgrammingTrainning_FirstExam_q2/ProgrammingTrainning_FirstExam_q2/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B650C281-BD28-4C75-AAF3-0B8FF636E7CD - 316b5823b64898f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammingTrainning_FirstExam_q2.dfs(n: inout Swift.Int, result: inout Swift.String) -&gt; ()"
+                  moduleName = "ProgrammingTrainning_FirstExam_q2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/ProgrammingTrainning_FirstExam_q2/ProgrammingTrainning_FirstExam_q2/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B650C281-BD28-4C75-AAF3-0B8FF636E7CD - 316b5823b64899bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammingTrainning_FirstExam_q2.dfs(n: inout Swift.Int, result: inout Swift.String) -&gt; ()"
+                  moduleName = "ProgrammingTrainning_FirstExam_q2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/ProgrammingTrainning_FirstExam_q2/ProgrammingTrainning_FirstExam_q2/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B56290F8-22F6-4693-99A7-3B4458BA8559"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgrammingTrainning_FirstExam_q2/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "dfs(n:result:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B56290F8-22F6-4693-99A7-3B4458BA8559 - 316b5823b6489833"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammingTrainning_FirstExam_q2.dfs(n: inout Swift.Int, result: inout Swift.String) -&gt; ()"
+                  moduleName = "ProgrammingTrainning_FirstExam_q2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/ProgrammingTrainning_FirstExam_q2/ProgrammingTrainning_FirstExam_q2/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "B56290F8-22F6-4693-99A7-3B4458BA8559 - 316b5823b6489833"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammingTrainning_FirstExam_q2.dfs(n: inout Swift.Int, result: inout Swift.String) -&gt; ()"
+                  moduleName = "ProgrammingTrainning_FirstExam_q2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/ProgrammingTrainning_FirstExam_q2/ProgrammingTrainning_FirstExam_q2/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "B56290F8-22F6-4693-99A7-3B4458BA8559 - 316b5823b6489833"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammingTrainning_FirstExam_q2.dfs(n: inout Swift.Int, result: inout Swift.String) -&gt; ()"
+                  moduleName = "ProgrammingTrainning_FirstExam_q2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/ProgrammingTrainning_FirstExam_q2/ProgrammingTrainning_FirstExam_q2/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "B56290F8-22F6-4693-99A7-3B4458BA8559 - 316b5823b64899c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammingTrainning_FirstExam_q2.dfs(n: inout Swift.Int, result: inout Swift.String) -&gt; ()"
+                  moduleName = "ProgrammingTrainning_FirstExam_q2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/ProgrammingTrainning_FirstExam_q2/ProgrammingTrainning_FirstExam_q2/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "B56290F8-22F6-4693-99A7-3B4458BA8559 - 316b5823b6489a86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammingTrainning_FirstExam_q2.dfs(n: inout Swift.Int, result: inout Swift.String) -&gt; ()"
+                  moduleName = "ProgrammingTrainning_FirstExam_q2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/ProgrammingTrainning_FirstExam_q2/ProgrammingTrainning_FirstExam_q2/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
