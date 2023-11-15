@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E697DDBA-0E1A-4ED4-8A06-76A8DAC83375"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F89547F-EDD9-4D30-AA38-50BD0F5F5F37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2ndExam_Q1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84096DE7-D6EE-4475-996D-97B8B5E6B052"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2ndExam_Q1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "q1(coinmap:_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "84096DE7-D6EE-4475-996D-97B8B5E6B052 - 67ac185b1b146127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_ndExam_Q1.q1(coinmap: Swift.Array&lt;Swift.Array&lt;Swift.Character&gt;&gt;, _: Swift.Int, _: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "2ndExam_Q1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/2ndExam_Q1/2ndExam_Q1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1596">
+               </Location>
+               <Location
+                  uuid = "84096DE7-D6EE-4475-996D-97B8B5E6B052 - 67ac185b1b159e3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_ndExam_Q1.q1(coinmap: Swift.Array&lt;Swift.Array&lt;Swift.Character&gt;&gt;, _: Swift.Int, _: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "2ndExam_Q1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/2ndExam_Q1/2ndExam_Q1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DAF36EB-5E25-4416-896A-065CE98B0E97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2ndExam_Q1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "q1(coinmap:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16C5F8D4-22F9-4466-8B7C-7B3002A170DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2ndExam_Q1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "q1(coinmap:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAEA4611-3AB2-441F-8402-CF723A0DA72B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2ndExam_Q1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "q1(coinmap:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE0935AC-10C9-4987-BBAF-2779584BA09F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2ndExam_Q1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "q1(coinmap:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2178B605-8AC6-4C31-AFAE-FBFE45BFE53B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2ndExam_Q1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "q1(coinmap:_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2178B605-8AC6-4C31-AFAE-FBFE45BFE53B - 67ac185b1b1461a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_ndExam_Q1.q1(coinmap: Swift.Array&lt;Swift.Array&lt;Swift.Character&gt;&gt;, _: Swift.Int, _: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "2ndExam_Q1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/2ndExam_Q1/2ndExam_Q1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1316">
+               </Location>
+               <Location
+                  uuid = "2178B605-8AC6-4C31-AFAE-FBFE45BFE53B - 67ac185b1b1461a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_ndExam_Q1.q1(coinmap: Swift.Array&lt;Swift.Array&lt;Swift.Character&gt;&gt;, _: Swift.Int, _: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "2ndExam_Q1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/2ndExam_Q1/2ndExam_Q1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FACF89F-EEA7-4BED-B523-D49CA1876DB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2ndExam_Q1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "q1(coinmap:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78F7BC42-8371-4D4F-8DB8-47451FA3F9DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2ndExam_Q1/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "q1(coinmap:_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "78F7BC42-8371-4D4F-8DB8-47451FA3F9DF - 67ac185b1b146127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_ndExam_Q1.q1(coinmap: Swift.Array&lt;Swift.Array&lt;Swift.Character&gt;&gt;, _: Swift.Int, _: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "2ndExam_Q1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/2ndExam_Q1/2ndExam_Q1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "78F7BC42-8371-4D4F-8DB8-47451FA3F9DF - 67ac185b1b146165"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_ndExam_Q1.q1(coinmap: Swift.Array&lt;Swift.Array&lt;Swift.Character&gt;&gt;, _: Swift.Int, _: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "2ndExam_Q1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/2ndExam_Q1/2ndExam_Q1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "1324">
+               </Location>
+               <Location
+                  uuid = "78F7BC42-8371-4D4F-8DB8-47451FA3F9DF - 67ac185b1b146144"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_ndExam_Q1.q1(coinmap: Swift.Array&lt;Swift.Array&lt;Swift.Character&gt;&gt;, _: Swift.Int, _: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "2ndExam_Q1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/2ndExam_Q1/2ndExam_Q1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1324">
+               </Location>
+               <Location
+                  uuid = "78F7BC42-8371-4D4F-8DB8-47451FA3F9DF - 67ac185b1b146144"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_ndExam_Q1.q1(coinmap: Swift.Array&lt;Swift.Array&lt;Swift.Character&gt;&gt;, _: Swift.Int, _: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "2ndExam_Q1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/2ndExam_Q1/2ndExam_Q1/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
