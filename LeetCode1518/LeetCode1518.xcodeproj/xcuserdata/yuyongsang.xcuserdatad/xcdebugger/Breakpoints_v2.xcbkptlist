@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6647ECDA-3898-4039-A4FA-7B7532A40395"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07271B7E-9443-4381-BD86-E8997A1230DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode1518/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "numWaterBottles(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EEADB5F-7B19-4094-B511-60D3010A0053"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode1518/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "numWaterBottles(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5EEADB5F-7B19-4094-B511-60D3010A0053 - 925c53e9d2b82ab7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode1518.Solution.numWaterBottles(Swift.Int, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCode1518"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/LeetCode1518/LeetCode1518/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "5EEADB5F-7B19-4094-B511-60D3010A0053 - 925c53e9d2b82ab7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode1518.Solution.numWaterBottles(Swift.Int, Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCode1518"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuyongsang/ProgrammingTranning/LeetCode1518/LeetCode1518/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
